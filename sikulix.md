@@ -6,12 +6,21 @@ SiluliXはJDK8以上で動作する。
 
 ## 手順
 
+### sikuliXをダウンロードする
+
+ここからダウンロードする。
+
+https://raiman.github.io/SikuliX1/downloads.html
+
+
 ### JDKをインストーラを使わずにインストールする
 
 http://jdk.java.net/
 
 からJDKをダウンロードして、Zipを解凍する。解凍したフォルダを、Cドライブの直下などに移動させる。
 JDKはOpenJDKで良い。Ver14は動作しない。Ver11だと動作した。
+
+### sikulixのIDEを起動する
 
 OpenJDKの場合、パスが通っていないので、コマンドラインから直接起動する（または、自分でパスを通す）。
 
