@@ -15,6 +15,6 @@ JDKはOpenJDKで良い。Ver14は動作しない。Ver11だと動作した。
 
 OpenJDKの場合、パスが通っていないので、コマンドラインから直接起動する（または、自分でパスを通す）。
 
-'C:\Users>C:\java\jdk-11\bin\java.exe -jar C:\sikulix\sikulixide-2.0.4.jar'
+`C:\Users>C:\java\jdk-11\bin\java.exe -jar C:\sikulix\sikulixide-2.0.4.jar`
 
 これだけ
